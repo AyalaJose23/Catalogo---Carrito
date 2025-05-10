@@ -18,7 +18,9 @@ Se muestra un resumen de lo que elegiste: nombre del producto, cantidad, precio 
 
 Podés seguir comprando o solicitar el pedido para finalizar tu compra ✅.
 
+
 🧰 Requisitos Técnicos para Probar la Página
+
 🖥️ XAMPP:
 Es un servidor local que incluye Apache, MySQL y PHP.
 
